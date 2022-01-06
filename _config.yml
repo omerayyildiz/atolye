@@ -26,12 +26,12 @@ defaults:
       type: eskizler
     values:
       title: Eskizler
-      permalink: /eskizler/:title
+      permalink: /eskizler/:title:output_ext
   - scope:
       type: projeler
     values:
-      title: projeler
-      permalink: /projeler/:title
+      title: Projeler
+      permalink: /projeler/:title:output_ext
 
 plugins:
   - jekyll-sitemap
