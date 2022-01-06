@@ -11,7 +11,7 @@ layout: default
   <header class="title-tags">
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B, %Y. It was a %A.' }}</time>
     <div class="tags-container">
-      Posted under <span>
+      Etiketler: <span>
           {% for tag in page.tags %}
             <a class="tags" href="/tags#{{ tag }}">{{ tag }}</a>
           {% endfor %}
@@ -30,13 +30,13 @@ layout: default
     <section class="content">
       {{content}}
     </section>
-
+<!--
     <hr class="stylish"/>
 
     {% include featured.html %}
 
     <hr class="stylish"/>
-
+-->
     <section class="pagination">
       {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>

@@ -1,41 +1,37 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for hackers'
+title : Ömer Ayyıldız - Atölye
+name: 'Ömer Ayyıldız - Atölye'
+description: "Tasarım ve Fikir Atölyesi"
 
 markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Unrelated
+featured_posts_title: Öne Çıkanlar
 featured_posts:
   - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
+    title: 'Öne Çıkan Paylaşım #1'
 
 collections:
-  news:
-    title: News
-    default_open: false
+  projeler:
+    title: Projeler
+    default_open: true
     output: true
-  posts:
-    title: Essays
+  eskizler:
+    title: Eskizler
     default_open: true
     output: true
 
 defaults:
   - scope:
-      type: posts
+      type: eskizler
     values:
-      title: Essays
-      permalink: /post/:title
+      title: Eskizler
+      permalink: /eskizler/:title
   - scope:
-      type: news
+      type: projeler
     values:
-      title: News
-      permalink: /news/:title
+      title: projeler
+      permalink: /projeler/:title
 
 plugins:
   - jekyll-sitemap
