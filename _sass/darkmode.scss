@@ -31,7 +31,7 @@ body.dark  {
     color: var(--color__gray--light)
   }
   hr.stylish {
-    background-image: linear-gradient(to right, rgba(white, 0.90), rgba(white, 0.45), rgba(white, 0));
+    background-color: white;
   }
   input {
     background-color: var(--color__gray--dark);
@@ -45,6 +45,6 @@ body.dark  {
   }
 
   #_progress {
-    background: linear-gradient(to right, rgb(204, 204, 204) var(--scroll), transparent 0);
+    background: linear-gradient(to right, rgb(255, 212, 72) var(--scroll), transparent 0);
   }
 }
