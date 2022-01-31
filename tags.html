@@ -7,7 +7,7 @@ title: Etiketler
 {% assign alltags =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by_exp: "tag","tag" %}
 
 <p>
-  Henüz bir etiket tanımlanmamış. Bir etiketin altındaki tüm yazılara ulaşmak için etikete tıklamanız yeterli.
+  Henüz bir sürü yazımız olmadığı için gereksiz bir özellik ama etiketleri burada bulabilirsiniz.
 </p>
 <ul class="tag-box">
     {% for tag in alltags %}
