@@ -8,6 +8,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="{{ description | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncate: 160 }}" />
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
   <meta property="og:image" content="{{ site.url }}/assets/img/banner.png" />
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -32,7 +33,7 @@
         "inLanguage": "en-US",
         "isFamilyFriendly": "true",
         "keywords": "{{ page.tags| join: ", " }}",
-        "image": "{{ site.url }}/favicon.ico",
+        "image": "{{ site.url }}/favicon.png",
         "mainEntityOfPage": {
           "@type": "WebPage",
           "@id": "{{ site.url }}{{ page.url }}"
