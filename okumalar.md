@@ -9,3 +9,5 @@ title: Okumalar
 - [“Sağlıklı Bir Gelecek”: Eczacıbaşı Amblemine Yeni Bir Yorum](http://gmk.org.tr/news/gmkdan/seda-yukselden-eczacibasi-amblemine-yeni-yorum)
 - [Seda Yüksel - Kitap Tasarımı](https://www.behance.net/gallery/83870525/Book-Cover-Design)
 - [Communication Arts Tipografi Yıllığı 2022](https://www.commarts.com/gallery?d=typography&y=2022)
+- [Broken English Goodbye ya da
+Taş Kâğıt Makas](https://manifold.press/broken-english-goodbye-ya-da-tas-kagit-makas)
