@@ -34,9 +34,10 @@ layout: default
 
     {% include featured.html %}
 
-    <hr class="stylish"/>
 -->
+
 {% if page.previous.url != null or page.next.url != null %}
+    <hr class="stylish"/>
     <section class="pagination">
       {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
