@@ -9,7 +9,9 @@ layout: default
 <header>
   <h1>{{ page.title }}</h1>
   <header class="title-tags">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: 'Yayınlanma Tarihi: %d.%m.%Y' }}</time>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: 'Yayınlanma Tarihi: %d.%m.%Y' }}</time><br/>
+    Yazar: {{ page.author }}
+<!--    
     <div class="tags-container">
       Etiketler: <span>
           {% for tag in page.tags %}
@@ -18,18 +20,15 @@ layout: default
         </span>
       &nbsp;
     </div>
+  -->
   </header>
 </header>
 
 <hr class="stylish" />
 
 <main role="main">
-
   <article>
-
-    <section class="content">
-      {{content}}
-    </section>
+    <section class="content">{{content}}</section>
 <!--
     <hr class="stylish"/>
 
@@ -37,15 +36,14 @@ layout: default
 
     <hr class="stylish"/>
 -->
+{% if page.previous.url != null or page.next.url != null %}
     <section class="pagination">
       {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-      {% endif %}
-      {% if page.next.url %}
+      {% endif %} {% if page.next.url %}
       <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
       {% endif %}
     </section>
-
+ {% endif %}
   </article>
-
 </main>

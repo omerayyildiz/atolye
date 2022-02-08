@@ -10,12 +10,16 @@
       font-size: 0.8rem;
     }
   
+    .title-tags {
+      font-size: 1rem;
+    }
+
     p {
         font-size: 1rem;
     }
 
     h1 {
-      font-size: 1.5rem;
+      font-size: 1.60rem;
     }
   
     h2 {
@@ -38,5 +42,9 @@
     li {
         font-size: 0.875rem;
         line-height: 2;
+    }
+
+    figcaption {
+      font-size: 0.9rem;
     }
   }
