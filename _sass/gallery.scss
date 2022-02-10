@@ -1,0 +1,27 @@
+.masonary {
+    &,
+    & * {
+        box-sizing: border-box;
+    }
+
+    &--columns {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        &__item {
+            width: 33.33%;
+
+            span {
+                display: block;
+                padding: 0.25rem;
+                max-width: 100%;
+            }
+            img {
+                display: block;
+                border-radius: 4px;
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
+}
