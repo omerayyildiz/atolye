@@ -3,6 +3,17 @@ layout: page
 title: Okumalar
 ---
 
+## 26 Şubat 2022 - Cumartesi
+
+- [UNDP Türkiye Görsel İçerik Yarışması](http://gmk.org.tr/news/turkiyeden/undp-turkiye-gorsel-icerik-yarismasi)
+- [San Diego Latin Film Festivali Afiş Yarışması Sonuçlandı](http://gmk.org.tr/news/dunyadan/san-diego-latin-film-festivali-afis-yarismasi-sonuclandi)
+- [GMK Dava - Özel Yetenek Sınavları Devam Ediyor](http://gmk.org.tr/news/gmkdan/yok-karari-iptal-edildi-ozel-yetenek-sinavlari-devam-ediyor)
+- [Kadın Hattatlarımız — Mehmed Said](https://medium.com/tipografi/kad%C4%B1n-hattatlar%C4%B1m%C4%B1z-mehmed-said-d309cd8b6972)
+- [How to shake off the demon of convention](https://www.creativereview.co.uk/convention-creative-work-richard-holman/)
+- [Spotify Wrapped in all its Glory](https://www.oneclub.org/articles/-view/spotify-wrapped-in-all-its-glory)
+- [Bergman Island’dan ilhamla dadandık: Yazma sürecini anlatan filmler](https://www.dadanizm.com/yazma-surecini-anlatan-filmler)
+
+
 ## 11 Şubat 2022 - Cuma
 
 - [Pentagram Tasarım Ajansı](https://www.pentagram.com/)

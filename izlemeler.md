@@ -3,6 +3,10 @@ layout: page
 title: İzlemeler
 ---
 
+## 26 Şubat 2022 - Cumartesi
+
+- [Brooklyn Children’s Museum](https://www.pentagram.com/work/brooklyn-children-s-museum)
+
 ## 6 Şubat 2022 - Pazar
 
 - [Yurdaer Altıntaş Karagözler Afişi](https://manifold.press/images/content/manifold-is-ustune-yurdaer-altintas-tiyatro-afisleri-ve-karagozler-1987.jpg)
