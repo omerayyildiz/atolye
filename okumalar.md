@@ -3,6 +3,14 @@ layout: page
 title: Okumalar
 ---
 
+## 12 Mart 2022
+
+- [Düşünce Kartlarından Kitap](https://manifold.press/dusunce-kartlari-ndan-kitap)
+- [Geç Kalmış Bir Yazı: Disco Elysium](https://manifold.press/gec-kalmis-bir-yazi-disco-elysium)
+- [Görülmezi Göstermek](https://manifold.press/gorulmezi-gostermek)
+- [Şimdi günah çıkarma zamanı: Popüler kültürden beslenen ünlü belgeselleri](https://www.dadanizm.com/simdi-gunah-cikarma-zamani-populer-kulturden-beslenen-unlu-belgeselleri)
+- [Koşarak özgürleşmek: Sinemanın değişen bakış açıları ve koşan kadınları](https://www.dadanizm.com/sinemanin-degisen-bakis-acilari-ve-kosan-kadinlari)
+
 ## 26 Şubat 2022 - Cumartesi
 
 - [UNDP Türkiye Görsel İçerik Yarışması](http://gmk.org.tr/news/turkiyeden/undp-turkiye-gorsel-icerik-yarismasi)
@@ -12,7 +20,6 @@ title: Okumalar
 - [How to shake off the demon of convention](https://www.creativereview.co.uk/convention-creative-work-richard-holman/)
 - [Spotify Wrapped in all its Glory](https://www.oneclub.org/articles/-view/spotify-wrapped-in-all-its-glory)
 - [Bergman Island’dan ilhamla dadandık: Yazma sürecini anlatan filmler](https://www.dadanizm.com/yazma-surecini-anlatan-filmler)
-
 
 ## 11 Şubat 2022 - Cuma
 
@@ -31,5 +38,4 @@ title: Okumalar
 
 - [GMK Yazılar - Şubat 2022 / Sayı 233 ](http://gmk.org.tr/publications/yazilar/subat-2022-sayi-233)
 - [“Sağlıklı Bir Gelecek”: Eczacıbaşı Amblemine Yeni Bir Yorum](http://gmk.org.tr/news/gmkdan/seda-yukselden-eczacibasi-amblemine-yeni-yorum)
-- [Broken English Goodbye ya da
-Taş Kâğıt Makas](https://manifold.press/broken-english-goodbye-ya-da-tas-kagit-makas)
+- [Broken English Goodbye ya da Taş Kâğıt Makas](https://manifold.press/broken-english-goodbye-ya-da-tas-kagit-makas)

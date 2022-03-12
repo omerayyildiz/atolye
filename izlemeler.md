@@ -3,6 +3,13 @@ layout: page
 title: İzlemeler
 ---
 
+## 12 Mart 2022
+
+- [the awardees - Best Book Design from all over the World](https://www.stiftung-buchkunst.de/en/best-book-design-from-all-over-the-world/the-awardees/)
+- [Reebok x Cardi B Club C](https://www.behance.net/gallery/108969529/Reebok-x-Cardi-B-Club-C?tracking_source=search_projects)
+- [Sebastiana - Animated Short Film](https://www.behance.net/gallery/136877259/Sebastiana-Animated-Short-Film?tracking_source=search_projects)
+- [Deep Inside Napoli](https://www.behance.net/gallery/137981175/Deep-Inside-Napoli?tracking_source=search_projects)
+
 ## 26 Şubat 2022 - Cumartesi
 
 - [Brooklyn Children’s Museum](https://www.pentagram.com/work/brooklyn-children-s-museum)
